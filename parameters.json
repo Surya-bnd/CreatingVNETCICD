@@ -1,0 +1,42 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "routeTables_RTProject1_name": {
+            "value": null
+        },
+        "virtualMachines_VMProject1SN2_name": {
+            "value": null
+        },
+        "virtualMachines_VMProject1SN3_name": {
+            "value": null
+        },
+        "virtualNetworks_Project1_Vnet_name": {
+            "value": null
+        },
+        "networkInterfaces_vmproject1sn2476_name": {
+            "value": null
+        },
+        "networkInterfaces_vmproject1sn3485_name": {
+            "value": null
+        },
+        "publicIPAddresses_VMProject1SN2_ip_name": {
+            "value": null
+        },
+        "publicIPAddresses_VMProject1SN3_ip_name": {
+            "value": null
+        },
+        "azureFirewalls_Project1_Vnet_Firewall_name": {
+            "value": null
+        },
+        "networkSecurityGroups_VMProject1SN2_nsg_name": {
+            "value": null
+        },
+        "networkSecurityGroups_VMProject1SN3_nsg_name": {
+            "value": null
+        },
+        "publicIPAddresses_Project1_Vnet_firewall_publicIpAddress_name": {
+            "value": null
+        }
+    }
+}
